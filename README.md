@@ -1,1 +1,2 @@
 # Region-Duplication-Forgery-Detection
+It presents an efficient block-based forensic technique for exposing RDFD in digital images utilizing in digital images utilizing the translation invariant SWT. Different from existing techniques, the proposed technique further splits image blocks (4 × 4 and 8×8)into four triangular regions in order to obtain the reduced feature vector length. Hence, the algorithm extracts moment of the first order as features corresponding to each triangular region that is further utilized for duplication detection.
